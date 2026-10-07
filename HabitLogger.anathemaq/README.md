@@ -36,8 +36,8 @@ A console application for tracking habits by quantity using SQLite and ADO.NET.
 ### Run the application
 
 ```bash
-git clone <repository-url>
-cd TCSA.HabitLogger/TCSA.HabitLogger
+git clone https://github.com/anathemaq/CodeReviews.Console.HabitTracker.git
+cd CodeReviews.Console.HabitTracker/HabitLogger.anathemaq/TCSA.HabitLogger
 dotnet run
 ```
 
@@ -45,7 +45,7 @@ On the first run the application creates `HabitLogger.db` in the current working
 
 ### Run the tests
 
-From the solution folder:
+From the `HabitLogger.anathemaq` folder:
 
 ```bash
 dotnet test
